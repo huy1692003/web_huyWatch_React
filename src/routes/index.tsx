@@ -1,6 +1,6 @@
 import { type } from 'os';
-import Cart from '../pages/client/cart';
-import Home from '../pages/client/home';
+import Cart from '../pages/client/Cart';
+import Home from '../pages/client/Home';
 
 type Route = {
     path: string;
